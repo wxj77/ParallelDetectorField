@@ -15,6 +15,7 @@ import sys
 #sys.path.insert(0, workdir)
 import unit
 import CalculateField as cf
+import numpy as np
 
 ############################################################
 #LZ Baseline Current. 50kV

@@ -34,11 +34,12 @@ LZ.UpdateVoltage(VList)
 LZ.GetVoltageInZLocation(x)
 ```
 
-(4) get electric field on the top/bottom of the Nth grid by with 
+(4) get electric field on the top/bottom/surface of the Nth grid by with 
 
 ```
 LZ.GridList[N].ElectricFieldUpInf
 LZ.GridList[N].ElectricFieldDownInf
+LZ.GridList[N].SurfaceFieldNaive()
 ```
 
 
