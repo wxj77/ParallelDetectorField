@@ -45,7 +45,7 @@ LZ.GridList[N].SurfaceFieldNaive()
 
 * run the code 
 ```
-python .py
+python LZ_Baseline_Detector.py
 ```
 
 
